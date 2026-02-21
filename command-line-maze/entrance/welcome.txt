@@ -1,0 +1,14 @@
+WELCOME TO: The Music Time-Capsule Maze
+
+Theme: Music as cultural data — genres, eras, and technology.
+
+Your mission:
+Travel through musical eras and formats to find the final message.
+
+Rules:
+- Use command line navigation only.
+- Read files carefully.
+- Some files may distract you.
+
+Start your journey:
+Go into the eras folder and begin with the earliest era.
